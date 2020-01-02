@@ -234,3 +234,151 @@ Te ayuda a reconocer a los miembros de tu equipo, agenda esta reunión de manera
 
 > No abuses de las actualizaciones, usar el valioso tiempo en personas para que tus empleados te cuenten en que andan es un desperdicio.
 
+## Delegación
+
+**Cómo escalar tu impacto**
+
+- La responsabilidad no implica que hagas todo
+- Explica el resultado que esperas claramente
+- Haz preguntas que confirmen tu claridad
+- Acepta que te va a tomar más tiempo inicialmente
+- Tareas que no te gusten a ti tienen valor para otras personas
+
+**Entrega tus legos**
+
+No les entregues una responsabilidad ya resuelta, permíteles resolver un problema.
+
+**Patea la lata cada vez más lejos**
+
+Delega progresivamente.
+
+## Estrategia
+
+**¿Para dónde vamos?**
+
+**Tú cargas una de las antorchas**
+
+**¿A qué vinimos?**
+
+**Más puentes: otras funciones y disciplinas**
+
+## Estado
+
+**¿Cómo vamos?**
+
+**Cómo estar al día**
+
+- Enseña a tu equipo a que te informe cuando hay cambios en el plan
+- No crees trabajo innecesario para reportarte
+- Establece un ritmo
+- Usa canales adecuados
+
+**Comunicación externa**
+
+**Cómo mantenerte al día**
+
+- Sienta expectativas al comienzo
+- Comunica cambios en el plan
+- Comunica riesgos tan pronto como surja
+- Usa canales adecuados
+- Establece un ritmo
+
+**Usa herramientas**
+
+**No micro-gerencies**
+
+**No seas la jefa a la que nadie quiere darle malas noticias**
+
+**Situaciones críticas**
+
+
+## El tiempo
+
+### El valor del tiempo de ingeniería y sus tipos
+
+**Tipos de tiempos**
+
+- Soporte: tiempo que nos gastamos sirviéndole a otras personas.
+- Mantenimiento: tiempo que dedicamos a mantener o mejorar nuestros sistemas.
+- Desarrollo de funcionalidad: Tiempo que invertimos en crear producto.
+
+**Distribución ideal**
+
+70% desarrollo de funcionalidad
+30% soporte y mantenimiento
+
+**Comprende el tiempo**
+
+- Mide la inversión del tiempo
+- Usa las herramientas disponibles
+- Contar personas es más fácil que contar horas
+
+**No poder desarrollar producto es un riesgo**
+
+**Forma una estrategia**
+
+- Estabiliza los sistemas
+- Comprende
+- Mejora
+- Escala
+
+**Ejecuta tu estrategia e itera**
+
+**Comunica el progreso**
+
+## Sé la trabajadore que te gustaría tener
+
+**Ven preparada a tus 1:1**
+
+- Crea una agenda y compártela antes
+- Llega a tiempo
+- Pregunta sobre el negocio
+- Pregúntale a tu jefa que le preocupa
+- Establece una relación
+
+**Ayuda a que te ayuden**
+
+- Si te estás quejando, aclara si necesitas o solo un oído
+- Si buscas ayuda, trae sugerencias
+- Pide conexiones
+- Hazle la vida fácil a tu jefa
+
+## Desarrollo vs entrega
+
+**Desarrollo de producto**
+
+- Crear productos y servicios que resuelven problemas usando hipótesis, investigación, diseño y experiencia de usuario
+- Podemos estar haciendo trabajo nunca antes hecho
+- Estimados son inciertos
+- Resultados tienen alta variabilidad
+
+**Entrega de producto**
+
+- Permitir el flujo rápido de desarrollo a producción, disminuyendo la variabilidad y el tamaño del trabajo
+- Integración, pruebas, despliegue deben realizarse de manera continua y rápida
+- Los tiempos de ciclo son conocidos y predecibles
+- Resultados tienen baja variabilidad
+
+**El desarrollo de producto es una asociación**
+
+**La entrega de producto es responsabilidad plena de ingeniería**
+
+> A partir del primer commit, un feature se encuentra en el ciclo de entrega de producto.
+
+## Desarrollo iterativo
+
+**Una certificación no vuelve ágil**
+
+**Desarrollo iterativo**
+
+- Un ritmo estable y predecible es importante
+- Enseña a tus ingenieras a desglosar su trabajo y trabajar en cambios pequeños
+- Las pruebas unitarias son herramientas de diseño y monitoreo, no de aceptación
+- Invierte en automatización, tanto despliegue como pruebas
+- La calidad es responsabilidad de todos
+- Instrumenta y monitorea los sistemas
+- Desacopla el despliegue del lanzamiento
+- Despliega diariamente, con confianza
+
+**Adapta tus procesos y no te obsesiones con ellos**
+
