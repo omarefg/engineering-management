@@ -382,3 +382,119 @@ Delega progresivamente.
 
 **Adapta tus procesos y no te obsesiones con ellos**
 
+## Velocidad de ingeniería
+
+La velocidad o velocity está diseñada como una herramienta para planear la capacidad de un equipo.
+
+> Velocidad como práctica de productividad es problemático
+
+La velocidad es relativa y depende de cada equipo.
+
+Cuando se usa como medidad de productividad los equipos "juegan" la métrica y esto afecta la colaboración.
+
+Si usas capacidad como una métrica de productividad, haces que tu equipo opere una forma insostenible y no pueden reaccionar a cambios.
+
+> La velocidad es buena para planear trabajo y terrible para medir equipos
+
+
+## La estructura de tu equipo
+
+Tu equipo te reporta a ti, y es tu responsabilidad decidir cómo se organiza de acuerdo a las prioridades.
+
+**Organiza tu equipo**
+
+- No crees barreras artificiales
+- Enfócate en dar objetivos claros, y no en decidir cómo se soluciona el problema
+- Balancea la ejecución ionmediata con el crecimiento a largo plazo
+- Rota las responsabilidades
+
+¿Generalista o especialista?
+
+Genera espacio para la especialización, pero no crees barreras artificiales, en una estapa junior para un miembro de tu equipo permítele experimentar, o ser generalista, y que a partir de ahí se vaya acercando a la especialidad.
+
+> La individualidad impacta el rendimiento y conocimiento
+
+## Estrategias de comunicación
+
+La **comunicación** no es lo que crees que dices, sino lo que te entienden.
+
+- Comunicación sincrónica: Un chat, una llamada.
+- Comunicación asincrónica: Un correo.
+
+**Canales de comunicación**
+
+- Control de versiones
+- Organizador de tareas
+- Chat
+- Foro
+- Correo electrónico
+- Calendario
+
+**Consejos**
+
+- Sé intencional y explícita al elegir los mecanismos.
+- No crees una prisión de presencia
+- La comunicación es el fundamento de la confianza
+
+## Cómo tomar decisiones
+
+- Estar a cargo implica tomar decisiones
+- Una mala decisión es mejor que no decidir
+- Tu trabajo ya no es tomar decisiones técnicas
+
+**RFCs como mecanismos de decisión de equipos**
+
+> Requests for comments (RFC)
+
+RFCs son
+
+- Documentos que ayudan a una o más ingenieras a bosquejar una propuesta técnica
+- Un espacio de pregunta y discusión
+- Menos rígidos que el código
+- Documentos colaborativos que ayudan a alinear y entender
+- Espacios de aprendizaje
+- Cunas de experimentación
+- Herramientas de empoderamiento
+- Documentos históricos
+
+**RFCs no son**
+
+- Documentos que buscan consenso
+- Espacios para criticar
+- Solicitudes de permiso
+- Exclusivamente para discusiones técnicas
+
+
+
+## Rendimiento
+
+### Rendimiento grupal
+
+Cada individuo tiene un rol independiente, sin embargo se complementan. Mide los resultado a partir del objetivo del grupo y no de horas o lineas de código.
+
+### Rendimiento individual
+
+Subjetivo al rol de la persona, habilidades y responsabilidades.
+
+### Retroalimentació continua
+
+Importante cuando estamos a cargo de personas.
+
+### Planes de mejora
+
+Sé muy clara cuando la relación no está funcionando. El mejor recurso son los planes de mejora o PIP (Perfomance improvement plans).
+
+- Delinea muy bien que tiene esta persona que mejorar
+- ¿Cúanto tiempo tiene esta persona para mejorar esto que estás identificando?
+- Hazlo por escrito y habla con esta persona para que ambos estén de acuerdo en la retroalimentación, el plan y cómo se está mejorando
+
+### ¿Cómo despedir a alguien?
+
+- Apóyate en el departamento de RRHH
+- Sé humano, nunca debe ser una sorpresa
+- Practica la conversación varias veces
+- No llores nunca
+- Siempre ten esta conversación en persona, si puedes física, nunca despidas a alguien por correo
+- Es cuestión de respeto
+
+### Crecimiento y promoción
