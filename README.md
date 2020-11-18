@@ -326,7 +326,7 @@ Delega progresivamente.
 
 **Comunica el progreso**
 
-## Sé la trabajadore que te gustaría tener
+## Sé la trabajadora que te gustaría tener
 
 **Ven preparada a tus 1:1**
 
